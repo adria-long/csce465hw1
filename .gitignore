@@ -1,0 +1,19 @@
+# Never commit generated marker
+hw1/markers/marker.txt
+
+# Secrets / keys
+*.key
+.env
+.env.*
+*api-key*
+*apikey*
+*secret*
+
+# Temporary/editor files
+*.swp
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
